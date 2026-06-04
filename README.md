@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=200&section=header&text=Ibrahim%20%E2%80%A2%20HayMosh1116&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20Bot%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=57&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002b,50:5a0080,100:c77dff&height=200&section=header&text=Ibrahim%20%E2%80%A2%20HayMosh1116&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20Bot%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=57&descSize=17"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=680&lines=Frontend+Developer+%F0%9F%8E%A8;WhatsApp+Bot+Engineer+%F0%9F%A4%96;JavaScript+%26+Open+Source+Enthusiast+%E2%9A%A1;Building+The+Future+One+Line+At+A+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -220,6 +220,6 @@ Contributing to projects that make a **real impact** and sharing knowledge with 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,50:5a0080,100:10002b&height=120&section=footer"/>
 
 </div>
